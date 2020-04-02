@@ -12,8 +12,8 @@ body {
 
 button {
   font: inherit;
-  background: #ff2058;
-  padding: 0.5rem 2rem;
+  background: orangered;
+  padding: 0.5rem 1rem;
   color: white;
   border: 1px solid #ff2058;
   margin: 0.5rem 0;

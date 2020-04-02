@@ -22,3 +22,11 @@
   display: flex;
   justify-content: space-between;
 }
+
+.ingredient-list li span {
+  margin: 1rem 0;
+}
+
+.ingredient-list li button {
+  background-color: orangered;
+}
